@@ -1,0 +1,11 @@
+# Tested with: streamlit 1.67, pandas 3.0, numpy 2.5, plotly 7.1, networkx 3.7, scikit-learn 1.9, reportlab 5.0, pytest 9.2 (Python 3.12)
+# The sidebar navigation styling targets Streamlit's markup in this range; the upper bound avoids silent visual breakage.
+streamlit>=1.55,<1.80
+jinja2>=3.1
+pandas>=2.2,<4
+numpy>=1.26,<3
+plotly>=5.24,<8
+networkx>=3.2,<4
+scikit-learn>=1.4,<2
+reportlab>=4.0,<6
+pytest>=8.0,<10

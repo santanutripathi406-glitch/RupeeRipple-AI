@@ -1,0 +1,25 @@
+transaction_id,entity_name,entity_type,transaction_type,amount,due_date,expected_date,status,related_entity,flexibility
+R001,Kaveri Retail Mart,customer,receivable,480000,2026-01-08,2026-01-09,pending,Warp Yarn Suppliers,fixed
+R002,Chennai Fashion Hub,customer,receivable,220000,2026-01-16,2026-01-18,pending,,fixed
+R003,Coimbatore Sarees Co,customer,receivable,150000,2026-01-23,2026-01-23,pending,,fixed
+R004,Madurai Silks Outlet,customer,receivable,260000,2026-01-31,2026-02-03,pending,,fixed
+R005,Trichy Garments Co,customer,receivable,180000,2026-02-10,2026-02-12,pending,,fixed
+R006,Kaveri Retail Mart,customer,receivable,300000,2026-02-22,2026-02-22,pending,,fixed
+R007,Salem Uniform Supply,customer,receivable,120000,2026-01-13,2026-01-13,pending,,fixed
+P001,Warp Yarn Suppliers,supplier,payable,190000,2026-01-11,2026-01-11,pending,Kaveri Retail Mart,fixed
+P002,Dye & Chemicals Ltd,supplier,payable,85000,2026-01-13,2026-01-13,pending,,flexible
+P003,Packaging Hub,supplier,payable,40000,2026-01-19,2026-01-19,pending,,flexible
+P004,Weaver Cooperative,supplier,payable,210000,2026-01-21,2026-01-21,pending,,fixed
+P005,Logistics Partners,supplier,payable,55000,2026-01-26,2026-01-26,pending,,flexible
+P006,Raw Cotton Mill,supplier,payable,240000,2026-02-05,2026-02-05,pending,,fixed
+P007,Dye & Chemicals Ltd,supplier,payable,90000,2026-02-15,2026-02-15,pending,,flexible
+PR001,Staff Payroll - Month 1,employee,payroll,160000,2026-01-07,2026-01-07,pending,,fixed
+PR002,Staff Payroll - Month 2,employee,payroll,160000,2026-02-06,2026-02-06,pending,,fixed
+RT001,Factory & Showroom Rent,landlord,rent,75000,2026-01-06,2026-01-06,pending,,fixed
+RT002,Factory & Showroom Rent,landlord,rent,75000,2026-02-05,2026-02-05,pending,,fixed
+UT001,State Electricity Board,utility,utilities,28000,2026-01-15,2026-01-15,pending,,fixed
+UT002,State Electricity Board,utility,utilities,30000,2026-02-14,2026-02-14,pending,,fixed
+UT003,Broadband Provider,utility,utilities,6000,2026-01-17,2026-01-17,pending,,flexible
+OT001,Loom Upgrade (planned purchase),supplier,other,120000,2026-01-29,2026-01-29,pending,,flexible
+OT002,Marketing Campaign,supplier,other,45000,2026-02-08,2026-02-08,pending,,flexible
+OT003,GST Payment,government,other,90000,2026-01-21,2026-01-21,pending,,fixed
