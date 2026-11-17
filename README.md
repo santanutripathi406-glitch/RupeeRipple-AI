@@ -5,6 +5,7 @@
 Financial Shock Propagation and Decision Intelligence for Small Businesses
 
 🚀 Live Application: Launch RupeeRipple AI
+
 Developed for Arthaton 2026.
 
 RupeeRipple AI is a decision-support and simulation app for India's small businesses. It builds a time-dependent
