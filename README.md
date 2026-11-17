@@ -2,6 +2,11 @@
 
 **Understand the ripple effect before a financial delay becomes a business disruption.**
 
+Financial Shock Propagation and Decision Intelligence for Small Businesses
+
+🚀 Live Application: Launch RupeeRipple AI
+Developed for Arthaton 2026.
+
 RupeeRipple AI is a decision-support and simulation app for India's small businesses. It builds a time-dependent
 financial dependency graph, simulates a delayed customer payment, shows which obligations and which days become risky,
 compares interventions, and explains the result in plain language. It never moves money or contacts anyone.
