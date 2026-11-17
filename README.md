@@ -4,7 +4,7 @@
 
 Financial Shock Propagation and Decision Intelligence for Small Businesses
 
-🚀 Live Application: Launch RupeeRipple AI
+🚀 **Live Application:** [Launch RupeeRipple AI](https://rupeeripple-ai-smtf4q9589e79xtakfstfv.streamlit.app/)
 
 Developed for Arthaton 2026.
 
