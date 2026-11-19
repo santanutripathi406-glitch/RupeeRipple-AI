@@ -113,25 +113,25 @@ macOS/Linux: `python3 -m venv .venv && source .venv/bin/activate && pip install 
 ## Application Screenshots
 
 ### 1. Overview Dashboard
-![Overview Dashboard](screenshots/01_Overview_Dashboard.png)
+![Overview Dashboard](screenshots/01_Overview_Dashboard.PNG)
 
 ### 2. Data Centre
-![Data Centre](screenshots/02_Data_Centre.png)
+![Data Centre](screenshots/02_Data_Centre.PNG)
 
 ### 3. Dependency Graph
-![Dependency Graph](screenshots/03_Dependency_Graph.png)
+![Dependency Graph](screenshots/03_Dependency_Graph.PNG)
 
 ### 4. Ripple Simulator
-![Ripple Simulator](screenshots/04_Ripple_Simulator.png)
+![Ripple Simulator](screenshots/04_Ripple_Simulator_10_Day_Delay.PNG)
 
 ### 5. Intervention Lab
-![Intervention Lab](screenshots/05_Intervention_Lab.png)
+![Intervention Lab](screenshots/05_Intervention_Lab.PNG)
 
 ### 6. AI Financial Intelligence
-![AI Financial Intelligence](screenshots/06_AI_Financial_Intelligence.png)
+![AI Financial Intelligence](screenshots/06_AI_Financial_Intelligence.PNG)
 
 ### 7. Reports
-![Reports](screenshots/07_Reports.png)
+![Reports](screenshots/07_Reports.PNG)
 
 ## 5-minute demo script
 1. **Overview (0:00)** – "Madurai Handloom Traders, synthetic data. Healthy on paper, but headroom is thin: **Watch**, lowest balance ₹1,51,000 vs ₹1,50,000 buffer."
