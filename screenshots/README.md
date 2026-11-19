@@ -7,3 +7,5 @@ This folder contains screenshots demonstrating the application's major modules.
 - Dependency Graph
 - Ripple Simulator
 - Intervention Lab
+- AI Financial Intelligence
+- Reports
